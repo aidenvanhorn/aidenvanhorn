@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aidenvanhorn
+- 👀 I’m interested in computer graphics, web development, and mathematics. 
+- 🌱 I’m currently learning about graphics and differential equations. 
+- 📫 How to reach me: ellasuevanhorn@gmail.com or on LinkedIn at www.linkedin.com/in/aiden-van-horn-004654250
